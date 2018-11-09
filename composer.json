@@ -1,0 +1,15 @@
+{
+  "name": "spryker-feature/merchant-product-restrictions",
+  "description": "Merchant Product restrictions [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker-feature/merchant": "~2018.11.0",
+    "spryker-feature/product": "~2018.11.0",
+    "spryker/merchant-relationship-product-list": "^1.0.0",
+    "spryker/merchant-relationship-product-list-data-import": "^0.1.1",
+    "spryker/merchant-relationship-product-list-gui": "^1.0.0"
+  }
+}
