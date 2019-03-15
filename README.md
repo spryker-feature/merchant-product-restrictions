@@ -1,6 +1,6 @@
 # Spryker Feature: Merchant Product restrictions
 
-A merchant can restrict the products which customers belonging to a specific Business Unit are allowed to see in the shop.
+The Merchant Product Restrictions feature allows the merchants to define the products that are available to each of their B2B customers.
 
 ## Installation
 
