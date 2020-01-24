@@ -6,10 +6,12 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
-    "spryker-feature/merchant": "~2018.12.0",
-    "spryker-feature/product": "~2018.12.0",
     "spryker/merchant-relationship-product-list": "^1.0.0",
     "spryker/merchant-relationship-product-list-data-import": "^0.1.1",
     "spryker/merchant-relationship-product-list-gui": "^1.0.0"
+  },
+  "suggest": {
+    "spryker-feature/merchant": "Recommended feature dependency.",
+    "spryker-feature/product": "Recommended feature dependency."
   }
 }
