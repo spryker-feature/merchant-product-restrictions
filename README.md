@@ -2,6 +2,8 @@
 
 The Merchant Product Restrictions feature allows the merchants to define the products that are available to each of their B2B customers.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/merchant-management/202307.0/base-shop/merchant-product-restrictions-feature-overview/merchant-product-restrictions-feature-overview.html)
+
 ## Installation
 
 ```
