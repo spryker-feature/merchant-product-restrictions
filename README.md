@@ -17,4 +17,4 @@ composer require spryker-feature/merchant-product-restrictions
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
-- [MerchantRelationshipProductListsRestApi ^0.1.0](https://github.com/spryker/merchant-relationship-product-lists-rest-api) (Glue Storefront)
+- [MerchantRelationshipProductListsRestApi ^0.1.0](https://github.com/spryker/merchant-relationship-product-lists-rest-api) (Legacy Glue)
