@@ -9,11 +9,11 @@
         "php": ">=8.2",
         "spryker/merchant-relationship-product-list": "^1.5.0",
         "spryker/merchant-relationship-product-list-data-import": "^0.1.1",
-        "spryker/merchant-relationship-product-list-gui": "^2.3.0"
+        "spryker/merchant-relationship-product-list-gui": "^2.4.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202507.x-dev"
+            "dev-master": "202512.x-dev"
         }
     },
     "suggest": {
